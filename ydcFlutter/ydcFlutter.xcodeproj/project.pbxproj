@@ -340,7 +340,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Users/armso/Desktop/flutterProject/ydcflutter/ydcflutter_app/.metadata",
+				"${SRCROOT}/../ydcflutter_app/.metadata",
 				"${SRCROOT}/../ydcflutter_app/.ios/Flutter/App.framework/App",
 				"${SRCROOT}/../ydcflutter_app/.ios/Flutter/engine/Flutter.framework/Flutter",
 				"${SRCROOT}/../ydcflutter_app/.ios/Flutter/flutter_export_environment.sh",
@@ -429,7 +429,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Users/armso/Desktop/flutterProject/ydcflutter/ydcflutter_app/.metadata",
+				"${SRCROOT}/../ydcflutter_app/.metadata",
 				"${SRCROOT}/../ydcflutter_app/.ios/Flutter/App.framework/App",
 				"${SRCROOT}/../ydcflutter_app/.ios/Flutter/engine/Flutter.framework/Flutter",
 				"${SRCROOT}/../ydcflutter_app/.ios/Flutter/flutter_export_environment.sh",
@@ -445,7 +445,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Users/armso/Desktop/flutterProject/ydcflutter/ydcflutter_app/.metadata",
+				"${SRCROOT}/../ydcflutter_app/.metadata",
 				"${SRCROOT}/../ydcflutter_app/.ios/Flutter/App.framework/App",
 				"${SRCROOT}/../ydcflutter_app/.ios/Flutter/engine/Flutter.framework/Flutter",
 				"${SRCROOT}/../ydcflutter_app/.ios/Flutter/flutter_export_environment.sh",

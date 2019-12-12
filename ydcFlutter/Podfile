@@ -2,7 +2,7 @@
 platform :ios, '9.0'
 source 'https://github.com/CocoaPods/Specs.git'
 
-flutter_application_path = '/Users/armso/Desktop/flutterProject/ydcflutter/ydcflutter_app/'
+flutter_application_path = '../ydcflutter_app/'
 load File.join(flutter_application_path, '.ios', 'Flutter', 'podhelper.rb')
 
 target 'ydcFlutter' do
