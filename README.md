@@ -10,8 +10,8 @@ flutter中引入第三方库，运行时报找不到XXX文件，请先pod instal
 
 
 # 效果图
-![Alt text](https://github.com/code-leening/flutterProject/blob/master/picture/00.jpg)
-![Alt text](https://github.com/code-leening/flutterProject/blob/master/picture/11.jpg)
-![Alt text](https://github.com/code-leening/flutterProject/blob/master/picture/22.jpg)
-![Alt text](https://github.com/code-leening/flutterProject/blob/master/picture/33.jpg)
-![Alt text](https://github.com/code-leening/flutterProject/blob/master/picture/44.jpg)
+![登录](https://github.com/code-leening/flutterProject/blob/master/picture/00.jpg)
+![首页](https://github.com/code-leening/flutterProject/blob/master/picture/11.jpg)
+![分类](https://github.com/code-leening/flutterProject/blob/master/picture/22.jpg)
+![购物车](https://github.com/code-leening/flutterProject/blob/master/picture/33.jpg)
+![我的](https://github.com/code-leening/flutterProject/blob/master/picture/44.jpg)
