@@ -1,0 +1,6 @@
+framework module Pods_ydcFlutter {
+  umbrella header "Pods-ydcFlutter-umbrella.h"
+
+  export *
+  module * { export * }
+}

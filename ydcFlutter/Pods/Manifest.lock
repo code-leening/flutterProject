@@ -1,0 +1,63 @@
+PODS:
+  - connectivity (0.0.1):
+    - Flutter
+    - Reachability
+  - Flutter (1.0.0)
+  - FlutterPluginRegistrant (0.0.1):
+    - connectivity
+    - Flutter
+    - fluttertoast
+    - image_picker
+    - shared_preferences
+  - fluttertoast (0.0.2):
+    - Flutter
+  - image_picker (0.0.1):
+    - Flutter
+  - Reachability (3.2)
+  - shared_preferences (0.0.1):
+    - Flutter
+  - ydcflutter_app (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - connectivity (from `../ydcflutter_app/.ios/Flutter/.symlinks/connectivity/ios`)
+  - Flutter (from `../ydcflutter_app/.ios/Flutter/engine`)
+  - FlutterPluginRegistrant (from `../ydcflutter_app/.ios/Flutter/FlutterPluginRegistrant`)
+  - fluttertoast (from `../ydcflutter_app/.ios/Flutter/.symlinks/fluttertoast/ios`)
+  - image_picker (from `../ydcflutter_app/.ios/Flutter/.symlinks/image_picker/ios`)
+  - shared_preferences (from `../ydcflutter_app/.ios/Flutter/.symlinks/shared_preferences/ios`)
+  - ydcflutter_app (from `../ydcflutter_app/.ios/Flutter`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Reachability
+
+EXTERNAL SOURCES:
+  connectivity:
+    :path: "../ydcflutter_app/.ios/Flutter/.symlinks/connectivity/ios"
+  Flutter:
+    :path: "../ydcflutter_app/.ios/Flutter/engine"
+  FlutterPluginRegistrant:
+    :path: "../ydcflutter_app/.ios/Flutter/FlutterPluginRegistrant"
+  fluttertoast:
+    :path: "../ydcflutter_app/.ios/Flutter/.symlinks/fluttertoast/ios"
+  image_picker:
+    :path: "../ydcflutter_app/.ios/Flutter/.symlinks/image_picker/ios"
+  shared_preferences:
+    :path: "../ydcflutter_app/.ios/Flutter/.symlinks/shared_preferences/ios"
+  ydcflutter_app:
+    :path: "../ydcflutter_app/.ios/Flutter"
+
+SPEC CHECKSUMS:
+  connectivity: c72716e202a1225ec4810740d5cb56b8ae3bf4cc
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  FlutterPluginRegistrant: da0fccdbfa68e7c004fbca7da3f28e83d7bd851f
+  fluttertoast: b644586ef3b16f67fae9a1f8754cef6b2d6b634b
+  image_picker: e3eacd46b94694dde7cf2705955cece853aa1a8f
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  shared_preferences: 1feebfa37bb57264736e16865e7ffae7fc99b523
+  ydcflutter_app: 25070c5710e1c3b6d07f7ae33ebcc8bfd85bd186
+
+PODFILE CHECKSUM: 4a5775fe5cb8e7ae43f2d0d8b622bdd79c75ae9c
+
+COCOAPODS: 1.8.4

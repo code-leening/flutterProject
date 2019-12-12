@@ -1,0 +1,6 @@
+framework module Pods_ydcFlutter_ydcFlutterUITests {
+  umbrella header "Pods-ydcFlutter-ydcFlutterUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
