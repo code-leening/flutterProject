@@ -1,7 +1,7 @@
 .DS_Store
-.dart_tool/
 
-.packages
+
+
 .pub/
 
 .idea/
@@ -35,8 +35,12 @@ xcuserdata
 Icon?
 .tags*
 
-build/
-.android/
-.ios/
-.flutter-plugins
-.flutter-plugins-dependencies
+#flutter自动忽略上传一下文件，本项目为了上传全部代码先注释掉忽略文件，在git下载完成后开发者可以在手动反注解。
+#.dart_tool/
+#.idea/
+#.packages
+#build/
+#.android/
+#.ios/
+#.flutter-plugins
+#.flutter-plugins-dependencies
